@@ -1,0 +1,4 @@
+Layers: ['SLE_adm2', 'SLE_buildings', 'edu_facilities', 'mv_lines', 'power_plants', 'rail_ways', 'road_networks', 'water_lines']
+mv valid=True crs=EPSG:32628 feats=3739
+bld valid=True crs=EPSG:32628 feats=1652165
+Buffer written: 1126400 bytes
